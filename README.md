@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am Anna Turkiewicz 
+### Hi there, I am Anna 👋
 
 I am a Bioinformatician / Data Scientist
 
