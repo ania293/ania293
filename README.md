@@ -4,10 +4,11 @@ I am a Data Scientist / Bioinformatician
 
 - 🔭 I am currently working on improving my Python programming skills and increasing my data science knowledge as a part of the HyperionDev skills bootcamp.
 - 🌱 I’m currently learning Machine Learning and AI technologies.
-- 🤔 I’m looking for help with finding Data Science role.
-- ⚡ Check out my recent fun Machine Learning projects.
+- 🤔 I’m looking for a Data Science role.
 
-✨ Penguins Classification Jupyter Notebook [project](https://github.com/ania293/Classification_penguins)
+
+Check out my recent fun Machine Learning projects.
+⚡ Penguins Classification Jupyter Notebook [project](https://github.com/ania293/Classification_penguins)
 
 I have more than 5 years of experience as a Bioinformatician, in both academic and industrial environments. I have been working on projects resulting in scientific publications which can be found:<br />
 🧬 Malaria parasite _Plasmodium falciparum_ drug resistance study [article](https://doi.org/10.1371/journal.pgen.1009268) <br />
