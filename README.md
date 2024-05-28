@@ -10,8 +10,8 @@ I am a Data Scientist / Bioinformatician
 ✨ Penguins Classification Jupyter Notebook [project](https://github.com/ania293/Classification_penguins)
 
 I have more than 5 years of experience as a Bioinformatician, in both academic and industrial environments. I have been working on projects resulting in scientific publications which can be found:<br />
-🧬 Malaria parasite _Plasmodium falciparum_ drug resistance study [article](https://doi.org/10.1371/journal.pgen.1009268).<br />
-🧬 Diversity of malaria parasite species _Plasmodium knowlesi_ in Malaysia [article](10.1038/s41598-023-29368-4).
+🧬 Malaria parasite _Plasmodium falciparum_ drug resistance study [article](https://doi.org/10.1371/journal.pgen.1009268) <br />
+🧬 Diversity of malaria parasite species _Plasmodium knowlesi_ in Malaysia [article](10.1038/s41598-023-29368-4)
 
 
 
