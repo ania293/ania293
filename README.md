@@ -9,6 +9,7 @@ I am a Data Scientist / Bioinformatician
 
 Check out my recent fun Machine Learning projects. <br />
 ⚡ Penguins Classification Jupyter Notebook [project](https://github.com/ania293/Classification_penguins)
+⚡ Bike Sharing Regression Jupyter Notebook [project](https://github.com/ania293/Regression_Bike_Sharing)
 
 I have more than 5 years of experience as a Bioinformatician, in both academic and industrial environments. I have been working on projects resulting in scientific publications which can be found:<br />
 🧬 Malaria parasite _Plasmodium falciparum_ drug resistance study [article](https://doi.org/10.1371/journal.pgen.1009268) <br />
