@@ -2,9 +2,9 @@
 
 I am a Data Scientist / Bioinformatician
 
-- 🔭 I am currently working on improving my Python programming skills and increasing my data science knowledge as a part of the HyperionDev skills bootcamp.
+- 🔭 I am currently working on improving my Python programming skills and increasing my data science knowledge.
 - 🌱 I’m currently learning Machine Learning and AI technologies.
-- 🤔 I’m looking for a Data Science role.
+- 🤔 I’m looking for a Data Analyst/Science role.
 
 
 Check out my recent fun Machine Learning projects. <br />
