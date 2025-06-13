@@ -1,6 +1,6 @@
 ### Hi there, I am Anna 👋
 
-I am a Data Scientist / Bioinformatician
+I am a Data Analyst / Data Scientist / Bioinformatician
 
 - 🔭 I am currently working on improving my Python programming skills and increasing my data science knowledge.
 - 🌱 I’m currently learning Machine Learning and AI technologies.
@@ -8,6 +8,7 @@ I am a Data Scientist / Bioinformatician
 
 
 Check out my recent fun Machine Learning projects. <br />
+⚡ SQL Murder Mystery [project]() <br />
 ⚡ Penguins Classification Jupyter Notebook [project](https://github.com/ania293/Classification_penguins) <br />
 ⚡ Bike Sharing Regression Jupyter Notebook [project](https://github.com/ania293/Regression_Bike_Sharing)
 
