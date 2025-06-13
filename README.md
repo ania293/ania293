@@ -8,7 +8,7 @@ I am a Data Analyst / Data Scientist / Bioinformatician
 
 
 Check out my recent fun Machine Learning projects. <br />
-⚡ SQL Murder Mystery [project]() <br />
+⚡ SQL Murder Mystery [project](https://github.com/ania293/MurderMystery) <br />
 ⚡ Penguins Classification Jupyter Notebook [project](https://github.com/ania293/Classification_penguins) <br />
 ⚡ Bike Sharing Regression Jupyter Notebook [project](https://github.com/ania293/Regression_Bike_Sharing)
 
